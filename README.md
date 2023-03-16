@@ -4,4 +4,4 @@
 <li> I'll upload here the stuff i do for fun and practice !<br>
 
 <h2>Socials</h2>
-<a href="https://www.root-me.org/Omiikcron?inc=info&lang=en">RootMe</a> | <a href=https://app.hackthebox.com/profile/840192>HackTheBox</a>
+<a href="https://www.root-me.org/Omiikcron?inc=info&lang=en">RootMe</a> | <a href=https://app.hackthebox.com/profile/840192>HackTheBox</a> | <a href=https://www.linkedin.com/in/daniel-kerner-35b14b265/>LinkedIn</a>
